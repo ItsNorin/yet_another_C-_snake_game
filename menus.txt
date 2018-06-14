@@ -1,0 +1,52 @@
+
+
+         --==  MAIN MENU  ==--
+
+          o    Options
+          c    Controls
+          p    Play the game at {0} difficulty
+//
+
+
+         --==   OPTIONS   ==--
+
+          f    Field Size
+          d    Difficulty
+//
+
+
+         --==  FIELD SIZE  ==--
+
+          x    Change field width
+          y    Change field height
+
+          Current field size: {0} x {1}
+//
+
+
+         --== DIFFICULTY ==--
+
+          e    Easy
+          n    Normal
+          h    hard
+          x    Extreme
+
+          Current difficulty  {0}
+          Score multiplier    x {1}
+//
+
+
+         --==  CONTROLS  ==--
+
+       Your objective is to collect as much
+       food as possible (x) without running 
+       into the border or your own body
+
+       Use WASD or arrow keys to 
+       change the snake's direction
+
+       Press Space or Escape to pause the game,
+       and press again to return to Main Menu
+
+       Press Enter, Escape, or Space to
+       go back in any menu.
